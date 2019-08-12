@@ -1,1 +1,1 @@
-# u-tec-http-bridge
+ultraloq-http-bridge
